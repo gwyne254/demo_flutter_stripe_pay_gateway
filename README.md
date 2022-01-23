@@ -8,7 +8,7 @@ This is a Simple demonstration on how to integrate Stripe Payment Gateway in a F
 - Set up env vars for the flutter app and a local backend.
   - [Get your test Stripe API keys](https://stripe.com/docs/keys)
   - `cp lib/.envX.dart lib/.env.dart` and set your Stripe publishable key.
-  - `cp server/.env.example server/.env` and set the variable values in your newly created `.env` file.
+  - `cp server/.envX server/.env` and set the variable values in your newly created `.env` file.
 - Install the server dependencies: `yarn --cwd "server"`
 - Start the example
   - Terminal 1: `yarn --cwd "server" start`

@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_stripe/flutter_stripe.dart';
 
 // Rename the file imported as REQUIRED here i.e remove the X in the .envX.dart file
-import 'package:demo_flutter_stripe_pay_gateway/.env.dart';
+import 'package:demo_flutter_stripe_pay_gateway/.envX.dart';
 
 import 'screens/screens.dart';
 import 'widgets/dismiss_focus_overlay.dart';
